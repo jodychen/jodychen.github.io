@@ -15,6 +15,9 @@
     border-radius: 15px;
     /*background: #914236;*/
     background: #ab3e2e;
+    background-image: url(/img/Jaala-Logo-flower-only-h110.png);
+    background-repeat: no-repeat;
+    background-position: 98% 50%;
     color: white;
     padding: 10px;
     font-size: 1.2em;
