@@ -1,0 +1,41 @@
+.navbar-inverse {
+    background: #ab3e2e;
+    color: #187aac;
+}
+
+.navbar-inverse .navbar-brand{
+    color: white;
+}
+
+.navbar-inverse .navbar-brand:hover{
+    color: #8ad8ff;
+}
+
+#jaala-app .featurette-heading {
+    border-radius: 15px;
+    /*background: #914236;*/
+    background: #ab3e2e;
+    color: white;
+    padding: 10px;
+    font-size: 1.2em;
+}
+
+#jaala-app .featurette p {
+    padding: 0 10px;
+}
+
+header .text-muted {
+    font-size: 70%;
+}
+header h1 {
+    color: #ab3e2e;    
+}
+
+/* alternative hading style
+#services .featurette-heading{
+    background: none;
+    color: #914236;
+    padding: 0 10px;
+    font-size: 1.7em;
+}
+*/
