@@ -11,6 +11,18 @@
     color: #8ad8ff;
 }
 
+#jaala-app .header-image {
+  /* background: url(/img/Bodhi-leaf_blur.png) no-repeat center center scroll; */
+  background: url(/img/Jaala-Logo-200h.png) no-repeat center center scroll;
+  
+ 
+    
+}
+
+/* #jaala-app .headerlogo {
+    opacity: 1;
+} */
+  
 #jaala-app .featurette-heading {
     border-radius: 15px;
     /*background: #914236;*/
