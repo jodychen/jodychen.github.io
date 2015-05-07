@@ -1,3 +1,7 @@
+#jaala-app {
+    max-width: 950px;
+    margin:0 auto;
+}
 .navbar-inverse {
     background: #ab3e2e;
     color: #187aac;
@@ -11,7 +15,7 @@
     color: #8ad8ff;
 }
 
-header.container {
+header.container-fluid {
     margin: 1em auto 0;
     color: #ab3e2e;
     padding-left: 15px;
