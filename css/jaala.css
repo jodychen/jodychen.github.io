@@ -33,6 +33,9 @@ header .pull-left {
     margin-right:2em;
 }
 
+header .logo {
+    margin:0 auto 1em;
+}
 #jaala-app .featurette-heading {
     border-radius: 15px;
     /*background: #914236;*/
