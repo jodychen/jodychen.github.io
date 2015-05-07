@@ -50,7 +50,7 @@ header .pull-left {
 }
 
 #jaala-app footer {
-    margin: 0px 0px;
+    margin: 0px auto 1em;
 }
 /* alternative hading style
 #services .featurette-heading{
