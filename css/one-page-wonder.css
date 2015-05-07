@@ -49,6 +49,7 @@ body {
 
 .featurette-image.pull-right {
     margin-left: 40px;
+    margin-right: 4em;
 }
 
 .featurette-heading {
@@ -77,7 +78,7 @@ footer {
     }
 
     .featurette-image.pull-right {
-        margin-left: 20px;
+        margin-left: 2em;
     }
 
     .featurette-heading {
@@ -107,7 +108,7 @@ footer {
     }
 
     .featurette-image.pull-right {
-        margin-left: 10px;
+        margin-left: 2em;
     }
 
     .featurette-heading {
